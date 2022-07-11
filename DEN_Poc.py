@@ -151,7 +151,7 @@ class video_mos():
                     Algorithm()
                 algorithm_blocks_detection.Name = "PerceivedVideoQuality"
                 json_input = '{\
-                                               "PredictionThreshold": 0.95,\
+                                               "PredictionThreshold": 0.99,\
                                                "MaskDetails": {\
                                                "xcord": 300,\
                                                "ycord": 91,\
