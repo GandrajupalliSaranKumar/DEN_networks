@@ -1,4 +1,4 @@
-# ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+# '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 # TestCase ID   : Video MOS Score Calculation
 # Description   : Calculate anomalies occurring in video stream and use those values to calculate
 #                 Video MOS Score
